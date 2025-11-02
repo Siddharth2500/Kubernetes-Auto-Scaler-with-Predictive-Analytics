@@ -3,7 +3,7 @@
 ## 📋 Overview
 An intelligent Kubernetes auto-scaling system that uses machine learning to predict pod resource requirements based on forecasted traffic patterns, enabling proactive scaling decisions before load spikes occur.
 
- <img src="[./images/readme_historical_costs.png" alt="Historical Cost Analysis](https://github.com/Siddharth2500/Kubernetes-Auto-Scaler-with-Predictive-Analytics/blob/main/Kubernetes%20Auto-Scaler%20with%20Predictive%20Resource%20Allocation%20Image.png)" width="100%"/>
+ <img src="https://github.com/Siddharth2500/Kubernetes-Auto-Scaler-with-Predictive-Analytics/blob/main/Kubernetes%20Auto-Scaler%20with%20Predictive%20Resource%20Allocation%20Image.png" width="100%"/>
 
 ## 🎯 Key Features
 - **Predictive ML Models**: Uses Gradient Boosting to forecast traffic 24 hours ahead
