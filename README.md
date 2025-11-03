@@ -1,4 +1,4 @@
-# 🚀 Project 2: Kubernetes Predictive Auto-Scaler with ML
+# 🚀 Kubernetes Predictive Auto-Scaler with ML
 
 ## 📋 Overview
 An intelligent Kubernetes auto-scaling system that uses machine learning to predict pod resource requirements based on forecasted traffic patterns, enabling proactive scaling decisions before load spikes occur.
