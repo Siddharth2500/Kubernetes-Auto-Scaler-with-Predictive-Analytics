@@ -24,7 +24,7 @@ An intelligent Kubernetes auto-scaling system that uses machine learning to pred
 ## 📦 Installation (Google Colab)
 ```python
 # All libraries pre-installed - just run!
-```````
+````````````
 
 ## 🚀 How to Run
 ```python
