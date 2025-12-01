@@ -55,7 +55,7 @@ main()
   hour_sin: 0.1523
   is_business_hours: 0.0987
   day_sin: 0.0654
-
+------
 🔮 Step 3: Predicting load for next 24 hours...
 ✓ Generated 24 hourly predictions
 
