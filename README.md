@@ -13,7 +13,7 @@ An intelligent Kubernetes auto-scaling system that uses machine learning to pred
 - **Proactive Scaling**: Scales before traffic spikes (not reactive)
 - **Multi-factor Analysis**: Considers RPS, CPU, memory, response time
 - **Advanced Feature Engineering**: Time-series features with lag and rolling statistics
-
+---
 ## 🛠️ Technology Stack
 - **Python 3.8+**
 - **Machine Learning**: Gradient Boosting Regressor
