@@ -5,7 +5,7 @@ An intelligent Kubernetes auto-scaling system that uses machine learning to pred
 ---
 
  <img src="https://github.com/Siddharth2500/Kubernetes-Auto-Scaler-with-Predictive-Analytics/blob/main/Kubernetes%20Auto-Scaler%20with%20Predictive%20Resource%20Allocation%20Image.png" width="100%"/>
-
+---
 ## 🎯 Key Features
 - **Predictive ML Models**: Uses Gradient Boosting to forecast traffic 24 hours ahead
 - **Real-time Metrics Simulation**: Generates realistic K8s cluster metrics with traffic patterns
