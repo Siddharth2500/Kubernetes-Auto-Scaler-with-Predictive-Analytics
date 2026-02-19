@@ -162,7 +162,7 @@ The system creates a comprehensive 9-panel dashboard:
 - 1 pod per 300 RPS baseline
 - Min: 2 pods, Max: 50 pods
 - Considers both traffic and CPU
-````````
+``````````
 
 ## 💡 Real-World Use Cases
 
