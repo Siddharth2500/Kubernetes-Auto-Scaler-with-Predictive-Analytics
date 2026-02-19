@@ -218,7 +218,7 @@ max_pods = 100
 
 # Tune ML model
 model = GradientBoostingRegressor(n_estimators=200, max_depth=5)
-```
+``````
 
 ## 🏆 Advanced Features
 - Anomaly detection for traffic spikes
